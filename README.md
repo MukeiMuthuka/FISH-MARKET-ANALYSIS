@@ -1,0 +1,1 @@
+Fish Market Analysis is a machine learning project that predicts fish weight based on physical measurements and simulates market pricing using species-specific multipliers. The goal is to build a reliable tool for estimating fish value, supporting vendors, suppliers, and fisheries managers in making data-driven pricing and inventory decisions.
